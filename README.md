@@ -38,7 +38,9 @@ O projeto consome as seguintes APIs públicas e gratuitas:
 
 ---
 
-## 🚀 Instruções de Execução
+## 🚀 Link do projeto
+
+https://wokwi.com/projects/467033237710046209
 
 ### Pré-requisitos
 Para rodar este projeto, você precisará acessar a plataforma Wokwi.
